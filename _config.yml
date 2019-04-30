@@ -1,6 +1,6 @@
 # main text of home
-name: Qendresa'ss
-bio: Bio
+name: Qendresa's journey
+bio: Passionately curious
 
 # twitter summary info
 description: Tech journey blog
@@ -8,11 +8,11 @@ description: Tech journey blog
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/qndr.jpg
+picture: assets/images/qend.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -34,38 +34,38 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: hotiqendresa
 # google: mygoogle
-# instagram: myinstagram
+instagram: qendresahhoti
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: qendresa-hoti-382216129/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: qendresahoti
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: hotiqendresa
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: qendresahhoti@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
+    qendresahoti:
+        name: Qendresa Hoti
+        # bio: A Man who travels the world eating noodles
+        # external-image: false
+        # picture: assets/images/profile.jpg
+        twitter: hotiqendresa
     jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        # name: James Foster
+        # bio: A Man who develops software with coffee
+        # external-image: false
+        # picture: assets/images/james.jpg
+        # twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -108,7 +108,7 @@ plugins:
   - jemoji
   - jekyll-admin
 
-jekyll-mentions:
-    base_url: https://github.com
+# jekyll-mentions:
+    # base_url: https://github.com
 
 theme: jekyll-theme-minimal
