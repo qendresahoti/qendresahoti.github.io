@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Still learning what to include in her About description, while coding, traveling, writing, taking pictures, loving sunsets, make difference around the world!</p>
+<p>Still learning what to include in her About description, while coding, traveling, writing, taking pictures, loving sunsets, and making difference around the world!</p>
 
 <!-- <h2>Skills</h2> -->
 <!-- 
